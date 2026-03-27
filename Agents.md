@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Core Platform: Launchpad AI
+### 🚀 Core Platform: [Launchpad AI](https://huggingface.co/spaces/lilgoblinjr/AI-Startup-Analyst)
 **AI Startup Simulator: Swarm-Powered Venture Validation**
 > A coordinated swarm of **8 specialized agents** collaborating to build, validate, and pitch venture ideas in real-time.
 
@@ -42,7 +42,7 @@ graph TD
 
 ---
 
-### 🎙️ Multimodal AI Therapy Companion
+### 🎙️ [Multimodal AI Therapy Companion](https://github.com/littlegoblinjr/ai-companion)
 **Voice-First Interaction Agent**
 > An end-to-end voice-first AI pipeline designed for conversational reasoning and emotional resonance.
 
